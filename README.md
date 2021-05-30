@@ -66,10 +66,15 @@
 	
 ### Certification
 
+<img src="https://img.shields.io/badge/Engineer_Information-000000?style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/English_Interpreter-1572B6?style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/Japanese_Interpreter-E34F26?style=flat"/>&nbsp;
-<img src="https://img.shields.io/badge/Engineer_Information-000000?style=flat"/>&nbsp;
 
+```diff
++ Tour Conduct / + Korean History level 1 / + JLPT level 1
+- TOEIC 930 (expired)
+```
+	
 </div>
 
 <br/><br/><br/>
