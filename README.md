@@ -7,9 +7,9 @@
 
 <div align="center">
 
-**If** not the best but do my best. 🏃
+**DO** my best even not the best. 🏃
 
-**I'm** a Noah(Jang Hyun Soo) who love to make a web app by using React & Typescript. 😄
+**I am** a Noah(Jang Hyun Soo) who love to make a web app by using React & Typescript. 😄
   
 </div>
 
