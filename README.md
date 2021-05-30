@@ -32,9 +32,7 @@
 
 <div align="center">
 	
-**Main Skills** 
-  
-<br/>
+### Main Skills
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp; 
@@ -47,32 +45,26 @@
 + Next.js / + MySQL / + AWS
 ```
 	
-<br/>
+<br/><br/>
 	
-**Social Media**
-
-<br/>
+### Social Media
 
 <a href="https://github.com/noah071610" target="_blank"><img src="https://image.flaticon.com/icons/png/24/25/25657.png"/></a>&nbsp;
 <a href="https://www.instagram.com/salmonchobab" target="_blank"><img src="https://image.flaticon.com/icons/png/24/1409/1409946.png"/></a>&nbsp;
 <a href="https://velog.io/@noah071610" target="_blank"><img width="24px" src="https://api.faviconkit.com/velog.io/144"/></a>&nbsp;
 <a href="noah071610@naver.com"><img src="https://image.flaticon.com/icons/png/24/552/552486.png"/></a>&nbsp;
 	
-<br/>
+<br/><br/>
 	
-**Language** 
-
-<br/>
+### Language
 
 <img src="https://image.flaticon.com/icons/png/24/197/197582.png" />&nbsp;
 <img width="23" src="https://image.flaticon.com/icons/png/24/197/197484.png" />&nbsp;
 <img src="https://image.flaticon.com/icons/png/24/197/197604.png" />&nbsp;
 	
-<br/>
+<br/><br/>
 	
-**Certification**
-
-<br/>
+### Certification
 
 <img src="https://img.shields.io/badge/English_Interpreter-1572B6?style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/Japanese_Interpreter-E34F26?style=flat"/>&nbsp;
@@ -80,5 +72,5 @@
 
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
