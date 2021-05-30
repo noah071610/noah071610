@@ -45,7 +45,7 @@
 + Next.js / + MySQL / + AWS
 ```
 	
-<br/><br/>
+<br/>
 	
 ### Social Media
 
@@ -54,7 +54,7 @@
 <a href="https://velog.io/@noah071610" target="_blank"><img width="24px" src="https://api.faviconkit.com/velog.io/144"/></a>&nbsp;
 <a href="noah071610@naver.com"><img src="https://image.flaticon.com/icons/png/24/552/552486.png"/></a>&nbsp;
 	
-<br/><br/>
+<br/>
 	
 ### Language
 
@@ -62,7 +62,7 @@
 <img width="23" src="https://image.flaticon.com/icons/png/24/197/197484.png" />&nbsp;
 <img src="https://image.flaticon.com/icons/png/24/197/197604.png" />&nbsp;
 	
-<br/><br/>
+<br/>
 	
 ### Certification
 
