@@ -1,23 +1,33 @@
 
 <br/>
 
-### Hello Stranger 👋
-
-I'm not a best but do my best.<br/>
-Hello, I'm Noah(Jang Hyun Soo) who love to make a web app by using React & Typescript.
+### <div align="center">Hello Stranger 👋 </div>
 
 <br/>
 
+<div align="center">
+  
+Not a best but do my best.
+  
+<br/>
+
+Hello, I'm Noah(Jang Hyun Soo) who love to make a web app by using React & Typescript.
+  
+</div>
+
+<br/><br/>
+
 ---
+
 
 <br/><br/>
 
 - Main Skills : &nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp; 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp; 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white"/>&nbsp;
 
 - Social Media : &nbsp;&nbsp; <a href="https://github.com/noah071610" target="_blank"><img src="https://image.flaticon.com/icons/png/24/25/25657.png"/></a>&nbsp;
   <a href="https://www.instagram.com/salmonchobab" target="_blank"><img src="https://image.flaticon.com/icons/png/24/1409/1409946.png"/></a>&nbsp;
