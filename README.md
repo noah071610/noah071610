@@ -10,7 +10,7 @@ Hello, I'm Noah(Jang Hyun Soo) who love to make a web app by using React & Types
 
 ---
 
-<br/>
+<br/><br/>
 
 - Main Skills : &nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
@@ -39,5 +39,5 @@ Hello, I'm Noah(Jang Hyun Soo) who love to make a web app by using React & Types
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah071610&layout=compact&hide_border=true"/>
 </div>
 
-<br/>
+<br/><br/>
 
