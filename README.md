@@ -1,5 +1,5 @@
 
-<br/>
+![header](https://capsule-render.vercel.app/api?type=slice&color=D5E5FA)
 
 ### <div align="center">Hello Stranger 👋 </div>
 
@@ -27,7 +27,7 @@
 
 ---
 
-<br/><br/>
+<br/>
 
 <div align="center">
 	
@@ -76,5 +76,7 @@
 	
 </div>
 
-<br/><br/><br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
