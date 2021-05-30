@@ -7,9 +7,9 @@
 
 <div align="center">
 
-**Not** a best but do my best.
+**If** not the best but do my best.
 
-**Hello,** I'm Noah(Jang Hyun Soo) who love to make a web app by using React & Typescript.
+**I'm** a Noah(Jang Hyun Soo) who love to make a web app by using React & Typescript.
   
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 	
-### Main Skills 
+**Main Skills** 
   
 <br/>
   
@@ -49,7 +49,7 @@
 	
 <br/>
 	
-### Social Media 
+**Social Media**
 
 <br/>
 
@@ -60,7 +60,7 @@
 	
 <br/>
 	
-### Language 
+**Language** 
 
 <br/>
 
@@ -70,7 +70,7 @@
 	
 <br/>
 	
-### Certification 
+**Certification**
 
 <br/>
 
