@@ -70,8 +70,8 @@
 <img src="https://img.shields.io/badge/Japanese_Interpreter-E34F26?style=flat"/>&nbsp;
 
 ```diff
-+ Tour Conduct / + Korean History level 1 / + JLPT level 1
-- TOEIC 930 (expired)
++ Tour Conduct / + JLPT level 1
+- TOEIC 925 (expired)
 ```
 	
 </div>
