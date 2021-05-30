@@ -7,19 +7,13 @@
 
 <div align="center">
 
-**If** not the best but do my best.
+**If** not the best but do my best. 🏃
 
-**I'm** a Noah(Jang Hyun Soo) who love to make a web app by using React & Typescript.
+**I'm** a Noah(Jang Hyun Soo) who love to make a web app by using React & Typescript. 😄
   
 </div>
 
-<br/><br/>
-
----
-
-
-<br/><br/>
-
+<br/>
 
 <table align="center">
   <tr>
@@ -27,6 +21,11 @@
     <td valign="top"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah071610&layout=compact&hide_border=true"/>
   </tr>
 </table>
+
+<br/>
+
+
+---
 
 <br/><br/>
 
