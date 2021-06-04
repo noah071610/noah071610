@@ -74,6 +74,12 @@
 - TOEIC 925 (expired)
 ```
 	
+<br/>
+	
+### Portfolio
+	
+<a href="https://noahworld.site/portfolio"><img src="https://img.shields.io/badge/View_Portfolio-D5E5FA?style=for-the-badge"/></a>
+	
 </div>
 
 <br/>
