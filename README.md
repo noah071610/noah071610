@@ -78,7 +78,7 @@
 	
 ### Portfolio
 	
-<a href="https://noahworld.site/portfolio"><img src="https://img.shields.io/badge/View_Portfolio-D5E5FA?style=for-the-badge"/></a>
+<a href="https://jshyunsoo.site"><img src="https://img.shields.io/badge/View_Portfolio-D5E5FA?style=for-the-badge"/></a>
 	
 </div>
 
