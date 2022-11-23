@@ -48,17 +48,17 @@
 	
 ### Social Media
 
-<a href="https://github.com/noah071610" target="_blank"><img src="https://image.flaticon.com/icons/png/24/25/25657.png"/></a>&nbsp;
-<a href="https://www.instagram.com/salmonchobab" target="_blank"><img src="https://image.flaticon.com/icons/png/24/1409/1409946.png"/></a>&nbsp;
-<a href="mailto:noah071610@naver.com"><img src="https://image.flaticon.com/icons/png/24/552/552486.png"/></a>&nbsp;
+<a href="https://github.com/noah071610" target="_blank"><img width="23" src="https://cdn-icons-png.flaticon.com/512/25/25657.png"/></a>&nbsp;
+<a href="https://www.instagram.com/salmonchobab" target="_blank"><img width="23" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>&nbsp;
+<a href="mailto:noah071610@gmail.com"><img width="23" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"/></a>&nbsp;
 	
 <br/>
 	
 ### Language
 
-<img src="https://image.flaticon.com/icons/png/24/197/197582.png" />&nbsp;
-<img width="23" src="https://image.flaticon.com/icons/png/24/197/197484.png" />&nbsp;
-<img src="https://image.flaticon.com/icons/png/24/197/197604.png" />&nbsp;
+<img width="23" src="https://cdn-icons-png.flaticon.com/512/330/330591.png" />&nbsp;
+<img width="23" src="https://cdn-icons-png.flaticon.com/512/555/555646.png" />&nbsp;
+<img width="23" src="https://cdn-icons-png.flaticon.com/512/555/555526.png" />&nbsp;
 	
 <br/>
 	
