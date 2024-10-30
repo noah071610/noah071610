@@ -7,23 +7,18 @@
 
 <div align="center">
 
-**DO** my best even not the best. 🏃
+**Hello!** I'm Noah(Jang Hyun Soo), a passionate developer who loves creative development. 💻✨
 
-**I am** a Noah(Jang Hyun Soo) who love to make a web app by using React & Typescript. 😄
+I primarily work with React and TypeScript, and enjoy building modern web applications with Next.js. 
+I'm passionate about implementing beautiful animations and smooth user experiences, and have a keen interest in cross-platform development using Flutter.
+
+From frontend to backend, I love the entire process of bringing ideas to life. 
+My driving force is learning new technologies and creating innovative solutions. 🚀
+
   
 </div>
 
 <br/>
-
-<table align="center">
-  <tr>
-    <td valign="top"><img align="top" src="https://github-readme-stats.vercel.app/api?username=noah071610&show_icons=true&hide_border=true" />
-    <td valign="top"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah071610&layout=compact&hide_border=true"/>
-  </tr>
-</table>
-
-<br/>
-
 
 ---
 
@@ -32,24 +27,31 @@
 <div align="center">
 	
 ### Main Skills
+
+
+<table align="center">
+  <tr>
+    <td valign="top"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah071610&layout=compact&hide_border=true"/>
+  </tr>
+</table>
+
+<br/>
   
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp; 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>&nbsp;
 
-```diff
-+ Next.js / + MySQL / + AWS
-```
-	
 <br/>
 	
 ### Social Media
 
 <a href="https://github.com/noah071610" target="_blank"><img width="23" src="https://cdn-icons-png.flaticon.com/512/25/25657.png"/></a>&nbsp;
-<a href="https://www.instagram.com/salmonchobab" target="_blank"><img width="23" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>&nbsp;
 <a href="mailto:noah071610@gmail.com"><img width="23" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"/></a>&nbsp;
 	
 <br/>
