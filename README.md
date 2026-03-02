@@ -9,7 +9,7 @@
 
 **Hello!** I'm Noah(Jang Hyun Soo), a passionate developer who loves creative development. 💻✨
 
-From frontend to backend, I love the entire process of bringing ideas to life. 
+From frontend to backend, I love the entire process of bringing ideas to life.<br/>
 My driving force is learning new technologies and creating innovative solutions. 🚀
 
   
@@ -31,6 +31,7 @@ My driving force is learning new technologies and creating innovative solutions.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>&nbsp;
+<br/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp;
